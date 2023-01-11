@@ -14,7 +14,7 @@ namespace WeatherForecastApp.Application.Mapping
     {
         public MapProfile()
         {
-            CreateMap<Activity,GetAllActivityResponse>().ReverseMap();
+            CreateMap<Activity, GetAllActivityResponse>().ReverseMap();
             CreateMap<Activity, CreateActivityRequest>().ReverseMap();
             CreateMap<Activity, DeleteActivityRequest>().ReverseMap();
             CreateMap<Activity, UpdateActivityRequest>().ReverseMap();

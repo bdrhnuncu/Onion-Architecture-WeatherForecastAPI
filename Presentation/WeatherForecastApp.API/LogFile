@@ -1,0 +1,354 @@
+2023-01-02 15:57:52.278 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-02 15:57:52.295 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-02 15:57:52.304 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-02 15:57:52.305 +03:00 [INF] Hosting environment: Development
+2023-01-02 15:57:52.305 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-02 15:57:53.150 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-02 15:57:53.775 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-02 15:57:53.783 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 6.4340ms
+2023-01-02 15:57:53.795 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 648.2729ms
+2023-01-02 15:57:54.015 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-02 15:57:54.064 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.2741ms
+2023-01-02 15:57:54.221 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-02 15:57:54.430 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 208.4061ms
+2023-01-02 16:01:20.578 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-02 16:01:20.596 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-02 16:01:20.604 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-02 16:01:20.606 +03:00 [INF] Hosting environment: Development
+2023-01-02 16:01:20.606 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-02 16:01:21.498 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-02 16:01:22.025 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-02 16:01:22.041 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 542.2896ms
+2023-01-02 16:01:22.041 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 16.3065ms
+2023-01-02 16:01:22.318 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-02 16:01:22.388 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 70.5168ms
+2023-01-02 16:01:22.523 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-02 16:01:22.767 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 244.4894ms
+2023-01-02 20:52:28.222 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-02 20:52:28.244 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-02 20:52:28.251 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-02 20:52:28.252 +03:00 [INF] Hosting environment: Development
+2023-01-02 20:52:28.252 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-02 20:52:29.123 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-02 20:52:29.705 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-02 20:52:29.714 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 6.1242ms
+2023-01-02 20:52:29.718 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 601.8847ms
+2023-01-02 20:52:29.957 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-02 20:52:30.006 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.6039ms
+2023-01-02 20:52:30.176 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-02 20:52:30.429 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 252.9603ms
+2023-01-02 21:19:09.756 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-02 21:19:09.775 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-02 21:19:09.782 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-02 21:19:09.783 +03:00 [INF] Hosting environment: Development
+2023-01-02 21:19:09.783 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-02 21:19:10.623 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-02 21:19:11.202 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-02 21:19:11.208 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 591.4376ms
+2023-01-02 21:19:11.208 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 5.8611ms
+2023-01-02 21:19:11.468 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-02 21:19:11.537 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 68.7583ms
+2023-01-02 21:19:11.656 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-02 21:19:11.842 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 185.5995ms
+2023-01-02 21:31:05.770 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-02 21:31:05.797 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-02 21:31:05.810 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-02 21:31:05.811 +03:00 [INF] Hosting environment: Development
+2023-01-02 21:31:05.811 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-02 21:31:07.078 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-02 21:31:07.671 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-02 21:31:07.693 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 620.2795ms
+2023-01-02 21:31:07.695 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 23.8092ms
+2023-01-02 21:31:08.002 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-02 21:31:08.065 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 62.4190ms
+2023-01-02 21:31:08.188 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-02 21:31:08.432 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 244.1444ms
+2023-01-02 21:33:04.207 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-02 21:33:04.222 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-02 21:33:04.247 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-02 21:33:04.248 +03:00 [INF] Hosting environment: Development
+2023-01-02 21:33:04.248 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-02 21:33:05.140 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-02 21:33:05.766 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-02 21:33:05.777 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 9.3429ms
+2023-01-02 21:33:05.790 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 656.4719ms
+2023-01-02 21:33:05.990 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-02 21:33:06.060 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 70.0119ms
+2023-01-02 21:33:06.212 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-02 21:33:06.411 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 199.3369ms
+2023-01-02 21:34:34.250 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-02 21:34:34.267 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-02 21:34:34.277 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-02 21:34:34.278 +03:00 [INF] Hosting environment: Development
+2023-01-02 21:34:34.278 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-02 21:34:35.391 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-02 21:34:35.927 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-02 21:34:35.946 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 17.5454ms
+2023-01-02 21:34:35.962 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 575.4348ms
+2023-01-02 21:34:36.203 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-02 21:34:36.276 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 72.9586ms
+2023-01-02 21:34:36.391 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-02 21:34:36.586 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 194.6959ms
+2023-01-02 21:35:12.122 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-02 21:35:12.149 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-02 21:35:12.160 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-02 21:35:12.161 +03:00 [INF] Hosting environment: Development
+2023-01-02 21:35:12.161 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-02 21:35:13.221 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-02 21:35:13.957 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-02 21:35:13.968 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 9.2873ms
+2023-01-02 21:35:13.985 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 769.8981ms
+2023-01-02 21:35:14.287 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-02 21:35:14.402 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 115.4504ms
+2023-01-02 21:35:14.485 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-02 21:35:14.672 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 186.4277ms
+2023-01-02 22:11:29.181 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-02 22:11:29.193 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-02 22:11:29.202 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-02 22:11:29.203 +03:00 [INF] Hosting environment: Development
+2023-01-02 22:11:29.203 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-02 22:11:30.098 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-02 22:11:30.623 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-02 22:11:30.634 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 541.4027ms
+2023-01-02 22:11:30.635 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 9.0760ms
+2023-01-02 22:11:30.933 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-02 22:11:31.068 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 134.5650ms
+2023-01-02 22:11:31.167 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-02 22:11:31.374 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 206.3775ms
+2023-01-02 22:11:45.905 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/api/PharmacyControllers?City=Mersin&District=Tece - -
+2023-01-02 22:11:45.918 +03:00 [INF] Executing endpoint 'WeatherForecastApp.API.Controllers.PharmacyControllers.Get (WeatherForecastApp.API)'
+2023-01-02 22:11:45.963 +03:00 [INF] Route matched with {action = "Get", controller = "PharmacyControllers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(WeatherForecastApp.Domain.Entities.PharmacyOnDutyRequest) on controller WeatherForecastApp.API.Controllers.PharmacyControllers (WeatherForecastApp.API).
+2023-01-02 22:11:47.257 +03:00 [INF] Executed action WeatherForecastApp.API.Controllers.PharmacyControllers.Get (WeatherForecastApp.API) in 1287.6654ms
+2023-01-02 22:11:47.263 +03:00 [INF] Executed endpoint 'WeatherForecastApp.API.Controllers.PharmacyControllers.Get (WeatherForecastApp.API)'
+2023-01-02 22:11:47.269 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[WeatherForecastApp.Domain.Entities.PharmacyOnDutyResponseResult]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'result.error'.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.Linq.JToken.ToObject(Type objectType, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.Linq.JToken.ToObject(Type objectType)
+   at Newtonsoft.Json.Linq.JToken.ToObject[T]()
+   at WeatherForecastApp.Infrastructure.Pharmacy.PharmacyOnDuty.Get(PharmacyOnDutyRequest pharmacyOnDuty) in C:\Users\Bedo-\source\repos\WeatherForecastApp\Infrastructure\WeatherForecastApp.Infrastructure\Pharmacy\PharmacyOnDuty.cs:line 24
+   at WeatherForecastApp.API.Controllers.PharmacyControllers.Get(PharmacyOnDutyRequest pharmacyOnDutyRequest) in C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\Controllers\PharmacyControllers.cs:line 21
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-01-02 22:11:47.347 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/api/PharmacyControllers?City=Mersin&District=Tece - - - 500 - text/plain;+charset=utf-8 1442.0757ms
+2023-01-09 17:35:44.712 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-09 17:35:44.726 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-09 17:35:44.737 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-09 17:35:44.739 +03:00 [INF] Hosting environment: Development
+2023-01-09 17:35:44.739 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-09 17:35:47.237 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger - -
+2023-01-09 17:35:47.478 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger - - - 301 0 - 239.6738ms
+2023-01-09 17:35:47.528 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-09 17:35:48.269 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 740.8186ms
+2023-01-09 17:35:48.289 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/swagger-ui.css - -
+2023-01-09 17:35:48.301 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/swagger-ui-bundle.js - -
+2023-01-09 17:35:48.304 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/swagger-ui-standalone-preset.js - -
+2023-01-09 17:35:48.359 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-09 17:35:48.367 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 7.5158ms
+2023-01-09 17:35:48.449 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-01-09 17:35:48.449 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-01-09 17:35:48.452 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/swagger-ui-standalone-preset.js - - - 200 339486 application/javascript 148.1843ms
+2023-01-09 17:35:48.452 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/swagger-ui.css - - - 200 143943 text/css 162.5935ms
+2023-01-09 17:35:48.458 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-01-09 17:35:48.459 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/swagger-ui-bundle.js - - - 200 1096145 application/javascript 157.6080ms
+2023-01-09 17:35:48.692 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-09 17:35:48.852 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 159.7128ms
+2023-01-09 17:35:48.961 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/favicon-32x32.png - -
+2023-01-09 17:35:48.962 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-01-09 17:35:48.962 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/favicon-32x32.png - - - 200 628 image/png 1.2423ms
+2023-01-09 17:35:49.302 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-09 17:35:49.603 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 301.2670ms
+2023-01-09 17:37:03.912 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/api/IMDBControllers?Name=%C4%B1ss%C4%B1z%20adam - -
+2023-01-09 17:37:03.945 +03:00 [INF] Executing endpoint 'WeatherForecastApp.API.Controllers.IMDBControllers.Get (WeatherForecastApp.API)'
+2023-01-09 17:37:04.051 +03:00 [INF] Route matched with {action = "Get", controller = "IMDBControllers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(WeatherForecastApp.Domain.Entities.IMDBRequest) on controller WeatherForecastApp.API.Controllers.IMDBControllers (WeatherForecastApp.API).
+2023-01-09 17:37:08.387 +03:00 [INF] Executing OkObjectResult, writing value of type 'WeatherForecastApp.Domain.Entities.IMDBResponse'.
+2023-01-09 17:37:08.440 +03:00 [INF] Executed action WeatherForecastApp.API.Controllers.IMDBControllers.Get (WeatherForecastApp.API) in 4360.4558ms
+2023-01-09 17:37:08.445 +03:00 [INF] Executed endpoint 'WeatherForecastApp.API.Controllers.IMDBControllers.Get (WeatherForecastApp.API)'
+2023-01-09 17:37:08.445 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/api/IMDBControllers?Name=%C4%B1ss%C4%B1z%20adam - - - 200 - application/json;+charset=utf-8 4533.6993ms
+2023-01-09 17:37:18.317 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/api/IMDBControllers?Name=inception - -
+2023-01-09 17:37:18.324 +03:00 [INF] Executing endpoint 'WeatherForecastApp.API.Controllers.IMDBControllers.Get (WeatherForecastApp.API)'
+2023-01-09 17:37:18.324 +03:00 [INF] Route matched with {action = "Get", controller = "IMDBControllers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(WeatherForecastApp.Domain.Entities.IMDBRequest) on controller WeatherForecastApp.API.Controllers.IMDBControllers (WeatherForecastApp.API).
+2023-01-09 17:37:19.500 +03:00 [INF] Executing OkObjectResult, writing value of type 'WeatherForecastApp.Domain.Entities.IMDBResponse'.
+2023-01-09 17:37:19.506 +03:00 [INF] Executed action WeatherForecastApp.API.Controllers.IMDBControllers.Get (WeatherForecastApp.API) in 1181.5347ms
+2023-01-09 17:37:19.506 +03:00 [INF] Executed endpoint 'WeatherForecastApp.API.Controllers.IMDBControllers.Get (WeatherForecastApp.API)'
+2023-01-09 17:37:19.506 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/api/IMDBControllers?Name=inception - - - 200 - application/json;+charset=utf-8 1189.1112ms
+2023-01-09 17:37:37.666 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/api/PharmacyControllers?City=ankara&District=%C3%A7ankaya - -
+2023-01-09 17:37:37.667 +03:00 [INF] Executing endpoint 'WeatherForecastApp.API.Controllers.PharmacyControllers.Get (WeatherForecastApp.API)'
+2023-01-09 17:37:37.675 +03:00 [INF] Route matched with {action = "Get", controller = "PharmacyControllers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(WeatherForecastApp.Domain.Entities.PharmacyOnDutyRequest) on controller WeatherForecastApp.API.Controllers.PharmacyControllers (WeatherForecastApp.API).
+2023-01-09 17:37:38.159 +03:00 [INF] Executing OkObjectResult, writing value of type 'WeatherForecastApp.Domain.Entities.PharmacuOnDutyResponse'.
+2023-01-09 17:37:38.163 +03:00 [INF] Executed action WeatherForecastApp.API.Controllers.PharmacyControllers.Get (WeatherForecastApp.API) in 488.4783ms
+2023-01-09 17:37:38.164 +03:00 [INF] Executed endpoint 'WeatherForecastApp.API.Controllers.PharmacyControllers.Get (WeatherForecastApp.API)'
+2023-01-09 17:37:38.164 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/api/PharmacyControllers?City=ankara&District=%C3%A7ankaya - - - 200 - application/json;+charset=utf-8 497.7174ms
+2023-01-09 17:44:04.159 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/api/WeatherForecastControllers/ankara - -
+2023-01-09 17:44:04.168 +03:00 [INF] Executing endpoint 'WeatherForecastApp.API.Controllers.WeatherForecastControllers.Get (WeatherForecastApp.API)'
+2023-01-09 17:44:04.174 +03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecastControllers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.String) on controller WeatherForecastApp.API.Controllers.WeatherForecastControllers (WeatherForecastApp.API).
+2023-01-09 17:44:05.325 +03:00 [INF] Executing OkObjectResult, writing value of type 'WeatherForecastApp.Domain.Entities.WeatherForecastResponse'.
+2023-01-09 17:44:05.331 +03:00 [INF] Executed action WeatherForecastApp.API.Controllers.WeatherForecastControllers.Get (WeatherForecastApp.API) in 1156.9328ms
+2023-01-09 17:44:05.332 +03:00 [INF] Executed endpoint 'WeatherForecastApp.API.Controllers.WeatherForecastControllers.Get (WeatherForecastApp.API)'
+2023-01-09 17:44:05.332 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/api/WeatherForecastControllers/ankara - - - 200 - application/json;+charset=utf-8 1172.4747ms
+2023-01-12 00:04:06.918 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-12 00:04:06.935 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-12 00:04:06.944 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-12 00:04:06.945 +03:00 [INF] Hosting environment: Development
+2023-01-12 00:04:06.945 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-12 00:04:07.836 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger - -
+2023-01-12 00:04:08.161 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger - - - 301 0 - 330.6694ms
+2023-01-12 00:04:08.195 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-12 00:04:08.773 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 578.2932ms
+2023-01-12 00:04:08.775 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/swagger-ui-bundle.js - -
+2023-01-12 00:04:08.775 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/swagger-ui-standalone-preset.js - -
+2023-01-12 00:04:08.775 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-12 00:04:08.777 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/swagger-ui.css - -
+2023-01-12 00:04:08.784 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 8.1785ms
+2023-01-12 00:04:08.839 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-01-12 00:04:08.839 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-01-12 00:04:08.839 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-01-12 00:04:08.839 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/swagger-ui.css - - - 200 143943 text/css 62.2376ms
+2023-01-12 00:04:08.839 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/swagger-ui-bundle.js - - - 200 1096145 application/javascript 63.5908ms
+2023-01-12 00:04:08.839 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/swagger-ui-standalone-preset.js - - - 200 339486 application/javascript 63.4501ms
+2023-01-12 00:04:09.078 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-12 00:04:09.160 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 81.4386ms
+2023-01-12 00:04:09.266 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/favicon-32x32.png - -
+2023-01-12 00:04:09.266 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-01-12 00:04:09.266 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/favicon-32x32.png - - - 200 628 image/png 0.5781ms
+2023-01-12 00:04:09.358 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-12 00:04:09.542 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 184.3241ms
+2023-01-12 00:04:23.425 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/api/IMDBControllers?Name=The%20Menu - -
+2023-01-12 00:04:23.468 +03:00 [INF] Executing endpoint 'WeatherForecastApp.API.Controllers.IMDBControllers.Get (WeatherForecastApp.API)'
+2023-01-12 00:04:23.511 +03:00 [INF] Route matched with {action = "Get", controller = "IMDBControllers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(WeatherForecastApp.Domain.Entities.IMDBRequest) on controller WeatherForecastApp.API.Controllers.IMDBControllers (WeatherForecastApp.API).
+2023-01-12 00:04:28.545 +03:00 [INF] Executing OkObjectResult, writing value of type 'WeatherForecastApp.Domain.Entities.IMDBResponse'.
+2023-01-12 00:04:28.563 +03:00 [INF] Executed action WeatherForecastApp.API.Controllers.IMDBControllers.Get (WeatherForecastApp.API) in 5046.2464ms
+2023-01-12 00:04:28.566 +03:00 [INF] Executed endpoint 'WeatherForecastApp.API.Controllers.IMDBControllers.Get (WeatherForecastApp.API)'
+2023-01-12 00:04:28.566 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/api/IMDBControllers?Name=The%20Menu - - - 200 - application/json;+charset=utf-8 5141.6305ms
+2023-01-12 00:04:38.620 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/api/ActivityControllers/GetAll - -
+2023-01-12 00:04:38.625 +03:00 [INF] Executing endpoint 'WeatherForecastApp.API.Controllers.ActivityControllers.GetAll (WeatherForecastApp.API)'
+2023-01-12 00:04:38.627 +03:00 [INF] Route matched with {action = "GetAll", controller = "ActivityControllers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll(WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityRequest) on controller WeatherForecastApp.API.Controllers.ActivityControllers (WeatherForecastApp.API).
+2023-01-12 00:04:38.764 +03:00 [INF] Executed action WeatherForecastApp.API.Controllers.ActivityControllers.GetAll (WeatherForecastApp.API) in 136.8386ms
+2023-01-12 00:04:38.765 +03:00 [INF] Executed endpoint 'WeatherForecastApp.API.Controllers.ActivityControllers.GetAll (WeatherForecastApp.API)'
+2023-01-12 00:04:38.771 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Error constructing handler for request of type MediatR.IRequestHandler`2[WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityRequest,System.Collections.Generic.List`1[WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityResponse]]. Register your handlers with the container. See the samples in GitHub for examples.
+ ---> Autofac.Core.Registration.ComponentNotRegisteredException: The requested service 'MediatR.IRequestHandler`2[[WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityRequest, WeatherForecastApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Collections.Generic.List`1[[WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityResponse, WeatherForecastApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]' has not been registered. To avoid this exception, either register a component to provide the service, check for service registration using IsRegistered(), or use the ResolveOptional() method to resolve an optional dependency.
+   at Autofac.ResolutionExtensions.ResolveService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at MediatR.ServiceFactoryExtensions.GetInstance[T](ServiceFactory factory)
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   --- End of inner exception stack trace ---
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at WeatherForecastApp.API.Controllers.ActivityControllers.GetAll(GetAllActivityRequest getAllActivityRequest) in C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\Controllers\ActivityControllers.cs:line 30
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-01-12 00:04:38.942 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/api/ActivityControllers/GetAll - - - 500 - text/plain;+charset=utf-8 323.5265ms
+2023-01-12 00:13:16.821 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-12 00:13:16.831 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-12 00:13:16.838 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-12 00:13:16.838 +03:00 [INF] Hosting environment: Development
+2023-01-12 00:13:16.839 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-12 00:13:17.937 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-12 00:13:18.724 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-12 00:13:18.733 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 8.0084ms
+2023-01-12 00:13:18.745 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 812.7011ms
+2023-01-12 00:13:18.969 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-12 00:13:19.045 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 75.9102ms
+2023-01-12 00:13:19.268 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-12 00:13:19.509 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 240.5106ms
+2023-01-12 00:13:24.069 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/api/ActivityControllers/GetAll - -
+2023-01-12 00:13:24.078 +03:00 [INF] Executing endpoint 'WeatherForecastApp.API.Controllers.ActivityControllers.GetAll (WeatherForecastApp.API)'
+2023-01-12 00:13:24.120 +03:00 [INF] Route matched with {action = "GetAll", controller = "ActivityControllers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll(WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityRequest) on controller WeatherForecastApp.API.Controllers.ActivityControllers (WeatherForecastApp.API).
+2023-01-12 00:13:24.240 +03:00 [INF] Executed action WeatherForecastApp.API.Controllers.ActivityControllers.GetAll (WeatherForecastApp.API) in 115.7678ms
+2023-01-12 00:13:24.243 +03:00 [INF] Executed endpoint 'WeatherForecastApp.API.Controllers.ActivityControllers.GetAll (WeatherForecastApp.API)'
+2023-01-12 00:13:24.248 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Error constructing handler for request of type MediatR.IRequestHandler`2[WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityRequest,System.Collections.Generic.List`1[WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityResponse]]. Register your handlers with the container. See the samples in GitHub for examples.
+ ---> Autofac.Core.Registration.ComponentNotRegisteredException: The requested service 'MediatR.IRequestHandler`2[[WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityRequest, WeatherForecastApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Collections.Generic.List`1[[WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityResponse, WeatherForecastApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]' has not been registered. To avoid this exception, either register a component to provide the service, check for service registration using IsRegistered(), or use the ResolveOptional() method to resolve an optional dependency.
+   at Autofac.ResolutionExtensions.ResolveService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at MediatR.ServiceFactoryExtensions.GetInstance[T](ServiceFactory factory)
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   --- End of inner exception stack trace ---
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at WeatherForecastApp.API.Controllers.ActivityControllers.GetAll(GetAllActivityRequest getAllActivityRequest) in C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\Controllers\ActivityControllers.cs:line 30
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-01-12 00:13:24.320 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/api/ActivityControllers/GetAll - - - 500 - text/plain;+charset=utf-8 251.1570ms
+2023-01-12 00:17:49.502 +03:00 [INF] Now listening on: https://localhost:7062
+2023-01-12 00:17:49.513 +03:00 [INF] Now listening on: http://localhost:5029
+2023-01-12 00:17:49.521 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-12 00:17:49.521 +03:00 [INF] Hosting environment: Development
+2023-01-12 00:17:49.522 +03:00 [INF] Content root path: C:\Users\Bedo-\source\repos\WeatherForecastApp\Presentation\WeatherForecastApp.API\
+2023-01-12 00:17:50.147 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/index.html - -
+2023-01-12 00:17:50.822 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - -
+2023-01-12 00:17:50.830 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/index.html - - - 200 - text/html;charset=utf-8 687.5597ms
+2023-01-12 00:17:50.833 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_framework/aspnetcore-browser-refresh.js - - - 200 12014 application/javascript;+charset=utf-8 8.9959ms
+2023-01-12 00:17:51.241 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/_vs/browserLink - -
+2023-01-12 00:17:51.264 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 22.7590ms
+2023-01-12 00:17:51.396 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - -
+2023-01-12 00:17:51.565 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 169.2916ms
+2023-01-12 00:19:19.545 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7062/api/ActivityControllers/GetAll - -
+2023-01-12 00:19:19.559 +03:00 [INF] Executing endpoint 'WeatherForecastApp.API.Controllers.ActivityControllers.GetAll (WeatherForecastApp.API)'
+2023-01-12 00:19:19.606 +03:00 [INF] Route matched with {action = "GetAll", controller = "ActivityControllers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll(WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityRequest) on controller WeatherForecastApp.API.Controllers.ActivityControllers (WeatherForecastApp.API).
+2023-01-12 00:19:21.696 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WeatherForecastApp.Application.Features.Queries.Activity.GetAllActivityResponse, WeatherForecastApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-01-12 00:19:21.739 +03:00 [INF] Executed action WeatherForecastApp.API.Controllers.ActivityControllers.GetAll (WeatherForecastApp.API) in 2126.478ms
+2023-01-12 00:19:21.742 +03:00 [INF] Executed endpoint 'WeatherForecastApp.API.Controllers.ActivityControllers.GetAll (WeatherForecastApp.API)'
+2023-01-12 00:19:21.744 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7062/api/ActivityControllers/GetAll - - - 200 - application/json;+charset=utf-8 2199.1943ms

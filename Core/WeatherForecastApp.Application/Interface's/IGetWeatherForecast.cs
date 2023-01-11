@@ -9,6 +9,6 @@ namespace WeatherForecastApp.Application.Interface_s
 {
     public interface IGetWeatherForecast
     {
-        WeatherForecast Get(string city);
+        WeatherForecastResponse Get(string city);
     }
 }

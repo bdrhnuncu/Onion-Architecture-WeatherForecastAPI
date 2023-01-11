@@ -12,7 +12,7 @@ namespace WeatherForecastApp.Infrastructure.WeatherForecast
 {
     public class GetWeatherForecast : IGetWeatherForecast
     {
-        public Domain.Entities.WeatherForecast Get(string city)
+        public Domain.Entities.WeatherForecastResponse Get(string city)
         {
             var client = new RestClient($"https://api.collectapi.com/weather/getWeather?data.lang=tr&data.city={city}");
             var request = new RestRequest("", Method.Get);
@@ -20,10 +20,8 @@ namespace WeatherForecastApp.Infrastructure.WeatherForecast
             request.AddHeader("content-type", "application/json");
             RestResponse response = client.Execute(request); 
             var convertToClass = JsonConvert.DeserializeObject<JToken>(response.Content);
-            return convertToClass.ToObject<Domain.Entities.WeatherForecast>();
-           
+            return convertToClass.ToObject<Domain.Entities.WeatherForecastResponse>();
         }
-
        
     }
 }

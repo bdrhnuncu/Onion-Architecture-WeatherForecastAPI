@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Autofac;
 using WeatherForecastApp.Application.Interface_s;
 using WeatherForecastApp.Application.Interface_s.Repositories.ActivityRepository;
+using WeatherForecastApp.Infrastructure.IMDB;
+using WeatherForecastApp.Infrastructure.Pharmacy;
 using WeatherForecastApp.Infrastructure.WeatherForecast;
 using WeatherForecastApp.Persistence.Repositories.ActivityRepository;
 
@@ -18,6 +20,8 @@ namespace WeatherForecastApp.Persistence.DependencyResolvers.Autofac
             builder.RegisterType<ActivityCommandRepository>().As<IActivityCommandRepository>();
             builder.RegisterType<ActivityQueryRepository>().As<IActivityQueryRepository>();
             builder.RegisterType<GetWeatherForecast>().As<IGetWeatherForecast>();
+            builder.RegisterType<PharmacyOnDuty>().As<IPharmacyOnDuty>();
+            builder.RegisterType<IMDB_S>().As<IIMDB>();
         }
     }
 }

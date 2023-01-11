@@ -10,12 +10,17 @@ using WeatherForecastApp.Application.Mapping;
 
 namespace WeatherForecastApp.Application.Services
 {
-    public static class ApplicationServices
+    public class ApplicationServices : IService
     {
-        public static void AddApplicationServices(this IServiceCollection services)
+        public void AddApplicationServices(IServiceCollection serviceCollection)
         {
-            services.AddMediatR(Assembly.GetExecutingAssembly());
-            services.AddAutoMapper(Assembly.GetExecutingAssembly());
+            serviceCollection.AddAutoMapper(Assembly.GetExecutingAssembly());
+
+        }
+
+        public void Load(IServiceCollection serviceCollection)
+        {
+            serviceCollection.AddAutoMapper(Assembly.GetExecutingAssembly());
         }
     }
 }

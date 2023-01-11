@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WeatherForecastApp.Domain.Entities
 {
-    public class Result
+    public class WeatherForecastResponseResult
     {
         public string Date { get; set; }
         public string Day { get; set; }

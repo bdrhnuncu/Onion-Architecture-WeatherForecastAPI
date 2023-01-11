@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace WeatherForecastApp.Domain.Entities
 {
-    public class WeatherForecast
+    public class IMDBRequest
     {
-        public bool Success { get; set; }
-        public string City { get; set; }
-        public List<Result> Result { get; set; }
+        public string Name { get; set; }
     }
 }

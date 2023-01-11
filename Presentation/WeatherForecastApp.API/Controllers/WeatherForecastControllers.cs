@@ -1,9 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using RestSharp;
-using WeatherForecastApp.Application.Features.Commands.Activity;
+﻿using Microsoft.AspNetCore.Mvc;
 using WeatherForecastApp.Application.Interface_s;
 
 namespace WeatherForecastApp.API.Controllers
@@ -21,9 +16,7 @@ namespace WeatherForecastApp.API.Controllers
         [HttpGet, Route("{city}")]
         public async Task<IActionResult> Get(string city)
         {
-            if (city == string.Empty || city == null) return BadRequest();
-            var get = _getWeather.Get(city);
-            return Ok(get);
+            return city == null || city == string.Empty ? NotFound() : Ok(_getWeather.Get(city));
         }
 
     }
